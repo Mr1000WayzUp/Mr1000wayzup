@@ -14,4 +14,11 @@ I build AI-powered tools and automation systems.
 
 ## Connect
 
-- GitHub: [@Mr1000wayzup](https://github.com/Mr1000wayzup)
+- 📧 Personal: thecableguy100@gmail.com
+- 📧 Work: ericfromcruz@gmail.com
+- 🐦 Twitter/X: [@Mr1000Wayz_Up](https://twitter.com/Mr1000Wayz_Up)
+- 📘 Facebook: [@begynaiceo](https://facebook.com/begynaiceo)
+- 📸 Instagram: [@mr1000wayzup](https://instagram.com/mr1000wayzup)
+- 🎵 TikTok: [@egocrypto1](https://tiktok.com/@egocrypto1)
+- 💼 LinkedIn: [mr1000wayzup](https://linkedin.com/in/mr1000wayzup)
+- 🐙 GitHub: [@Mr1000wayzup](https://github.com/Mr1000wayzup)
