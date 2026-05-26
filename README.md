@@ -4,7 +4,15 @@ I build AI-powered tools and automation systems.
 
 ## What I'm working on
 
-- 🤖 **[HERMES](https://github.com/Mr1000wayzup/hermes-agent)** — An AI business agent that acts as a virtual CFO, CMO, and COO. Handles web research, financial modeling, content automation, and more.
+### 🤖 [HERMES — Business CFO Agent](https://github.com/Mr1000wayzup/hermes-agent)
+
+An AI-powered business agent that acts as a virtual CFO, CMO, and COO.
+
+- 🔍 Web search — real-time market data, competitors, trends
+- 🐍 Python execution — financial modeling, data analysis, automation
+- 📝 Content automation — calendars, blog outlines, email sequences, ad copy
+- 🌐 Web UI with voice input — talk to it directly in your browser
+- ⚡ Runs on OpenRouter (cloud) or Ollama (local/free)
 
 ## Tools & Tech
 
